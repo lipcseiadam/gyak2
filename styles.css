@@ -1,0 +1,7 @@
+p { color: #666666; }
+p.info {
+    border: 1px dashed black;
+    background-color: orange;
+}
+#main { position: relative; }
+nav ul > li { padding-top: 10px; }
